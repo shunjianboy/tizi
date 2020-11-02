@@ -8,6 +8,7 @@
 | [IvacyVPN](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=github&data2=supertz) | 网速一流的VPN |
 | [ExpressVPN](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=github&data1=supertz) | 顶级品牌（需翻墙后购买）|
 | [SurfShark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401) | 不限设备数（需翻墙后购买） |
+| [StrongVPN](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitsuper&data2=tizi) | 10月份不稳定，正在恢复中 |
 
 
 # PandaVPN（熊猫）
