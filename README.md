@@ -2,12 +2,12 @@
 
 |  VPN   | 特点  |
 |  ----  | ----  |
-| [PandaVPN](https://www.panhdpe.xyz/r/22216799) | 海外华人开发，可以3天免费试用 |
-| [NordVPN](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitlilu&aff_click_id=tizi) | 顶级VPN品牌之一 |
-| [IvacyVPN](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitlilu&data2=tizi) | 网速一流的VPN |
-| [ExpressVPN](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitlilu&data1=tizi) | 顶级品牌（需翻墙后购买）|
-| [SurfShark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401) | 不限设备数（需翻墙后购买） |
-| [StrongVPN](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitlilu&data2=tizi) | 10月份不稳定，正在恢复中 |
+| [PandaVPN](https://cc.7en7.com) | 海外华人开发，可以3天免费试用 |
+| [NordVPN](https://cc.7en7.com)) | 顶级VPN品牌之一 |
+| [IvacyVPN](https://cc.7en7.com)) | 网速一流的VPN |
+| [ExpressVPN](https://cc.7en7.com)) | 顶级品牌（需翻墙后购买）|
+| [SurfShark](https://cc.7en7.com)) | 不限设备数（需翻墙后购买） |
+| [StrongVPN](https://cc.7en7.com)) | 10月份不稳定，正在恢复中 |
 
 
 # PandaVPN（熊猫）
@@ -38,7 +38,7 @@ PandaVPN建立连接的速度非常快，而且客户端里提供全局代理、
 
 
 
-### [熊猫VPN官网（中国区镜像），可直接打开](https://www.panhdpe.xyz/r/22216799)
+### [熊猫VPN官网（中国区镜像），可直接打开](https://cc.7en7.com))
 
 
 
@@ -59,7 +59,6 @@ Panda有7天退款政策，但申请退款需要说明理由。如果你发现�
 
 ExpressVPN官方的说法是“受最近的政策原因影响”，不管厂商是什么想法，服务的退步都是我们的损失。
 
-但是，ExpressVPN仍然是穿墙能力最强的翻墙软件之一。如果想购买，可以先用[PandaVPN免费试用](https://www.panhdpe.xyz/r/22216799)，获得国外IP后，到[ExpressVPN官网](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=github&data1=supertz)购买。
 
 虽然ExpressVPN在特殊时期也会有点问题，但一年中97%的时间里使用都很流畅。每年不能用的时间大致在2-3个星期，会有几天时间出现连不上，
 
@@ -89,7 +88,6 @@ ExpressVPN支持的付款方式很多，包括支付宝、银联。买一年送3
 
 ExpressVPN同时支持5台设备，可配置Split Tunneling ，推荐香港、日本、新加坡、美国节点。
 
-### [ExpressVPN官网镜像，需翻墙后打开](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=github&data1=supertz)，可以用[PandaVPN免费试用](https://www.panhdpe.xyz/r/22216799)打开再购买
 
 
 
@@ -121,11 +119,10 @@ NordVPN官方还有所谓的优惠券，实际上赠送时长，一般是1个月
 
 
 
-#### 最近有效的优惠码是 NERDWRITER
+####
 
 
-### [NordVPN官网镜像，可直接打开](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=github&aff_click_id=supertz)
-
+###
 
 
 NordVPN支持30天无理由退款，如果你发现它在你的设备和网络环境下用不了，你可以写邮件 support@nordvpn.com 要求退款：
@@ -149,16 +146,10 @@ NordVPN支持30天无理由退款，如果你发现它在你的设备和网络�
 
 SurfShark目前只能通过官网购买，要先翻墙，可以用PandaVPN的免费试用，先获取国外IP，再进行购买。
 
-### [SurfShark官网地址，翻墙后打开](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401)，可以用[PandaVPN免费试用](https://www.panhdpe.xyz/r/22216799)打开再购买
-
-
+### 
 
 SurfShark提供30天退款保证，并提供7天24小时客服，如果购买后你的设备或网络环境下无法使用，可以联系客服退款：
 
 1. 打开官网，在右下角找到“Chat”按钮，与客服沟通
 2. 写邮件给 support@surfshark.com
 
-
----
-
-本项目原始地址：[https://github.com/Super-VPN/tizi](https://github.com/Super-VPN/tizi)
